@@ -9,6 +9,9 @@
 // user arn  :   arn:aws:iam::074248561948:user/AbdullahAbrar
 // git push -u origin main
 
+
+
+
 module.exports = {
     aws_table_name: 'quizApp',
     aws_local_config: {
