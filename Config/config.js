@@ -12,6 +12,10 @@
 
 
 
+
+
+
+
 module.exports = {
     aws_table_name: 'quizApp',
     aws_local_config: {
